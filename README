@@ -1,0 +1,10 @@
+
+This module is specifically for Puppet facts, plugins, and custom types that 
+Semantico Ltd has created that are of interest to the general public, prior to
+them being accepted into common modules or the puppet/facter source proper.
+
+They are released until the BSD License, so can be modified and used freely.
+
+Please contact Mike.Pountney@semantico.com for further details.
+
+
